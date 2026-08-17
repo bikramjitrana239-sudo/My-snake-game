@@ -1,0 +1,10 @@
+How To Start The Game:
+> Run the main.py file to load the snake game
+
+How To Play:
+> Use the Up, Down, Left, Right arrow keys in your keyboard to control the snake
+
+How To Restart The Game If Game Is Over:
+> Close the Snake game window and again run the main.py file to restart the game
+
+and HAVE FUN
